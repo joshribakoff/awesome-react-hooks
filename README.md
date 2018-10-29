@@ -17,6 +17,7 @@
 ## Videos
 
 - [ReactConf 2018: React Hooks Announcement & Introduction](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [React Hooks Playlist by Josh Ribakoff](https://www.youtube.com/watch?v=pN7QSL45TI4&list=PLj2oFNVaxfJ-AcPo191jz09g-v9CLRfCg)
 
 ## Tools
 
